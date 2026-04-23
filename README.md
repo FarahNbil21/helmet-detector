@@ -5,8 +5,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Computer%20Vision-green?style=for-the-badge)
 
-<img width="739" height="1600" alt="cvimg2" src="https://github.com/user-attachments/assets/0618ef7b-05df-4c86-86f8-3e09287aec17" />
-<img width="739" height="1600" alt="cvimg1" src="https://github.com/user-attachments/assets/25ca8cc5-961a-4ed9-9b1e-6848ac3bf43e" />
+<img width="350" alt="cvimg2" src="https://github.com/user-attachments/assets/0618ef7b-05df-4c86-86f8-3e09287aec17" />
+<img width="350" alt="cvimg1" src="https://github.com/user-attachments/assets/25ca8cc5-961a-4ed9-9b1e-6848ac3bf43e" />
 > A real-time deep learning system that detects whether workers are wearing helmets and safety vests — built for industrial safety and compliance monitoring.
 
 ---
