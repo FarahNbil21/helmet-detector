@@ -58,8 +58,8 @@ The model **learns automatically** from 23,000+ labeled images — no handcrafte
 
 Training curves show consistent improvement with **no overfitting**:
 
-<img width="350" alt="cvimg2" src="https://github.com/user-attachments/assets/0618ef7b-05df-4c86-86f8-3e09287aec17" />
-<img width="350" alt="cvimg1" src="https://github.com/user-attachments/assets/25ca8cc5-961a-4ed9-9b1e-6848ac3bf43e" />
+<img  src="https://github.com/user-attachments/assets/0618ef7b-05df-4c86-86f8-3e09287aec17" width="25%"/>
+<img  src="https://github.com/user-attachments/assets/25ca8cc5-961a-4ed9-9b1e-6848ac3bf43e" width="25%" />
 
 ---
 
